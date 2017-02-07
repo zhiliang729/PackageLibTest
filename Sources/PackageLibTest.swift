@@ -1,4 +1,4 @@
 public struct PackageLibTest {
 
-    public var text = "Hello, World!"
+    public static var text = "Hello, World!"
 }
